@@ -1,0 +1,102 @@
+body{
+    direction: none;   
+}
+.form{
+    background-color: blanchedalmond;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px 2px rgb(235, 235, 235);
+}
+.infeild{
+    margin: 5px;
+    height: 30px;
+    width: 300px;
+    
+}
+div.input{
+    padding: 10px;
+}
+h3{
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+button{
+    
+    align-content: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ptag{
+    background-color: rgb(226, 226, 226);
+    height: 30px;
+    margin: 5px;
+}
+.formdata{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px 2px rgb(235, 235, 235);
+}
+
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<task2>>>>>>>>>>>>>>>>>>>>>>>> */
+.container{
+    background-color: rgb(236, 236, 236);
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px 2px rgb(235, 235, 235);
+    
+}
+
+.text{
+    width: 600px;
+    
+}
+#more {display: none;}
+
+.inercontainer{
+   display: inline-flex;
+    
+
+}
+
+input{
+    margin: 5px;
+    height: 25px;
+}
+
+.add-container{
+    background-color: turquoise;
+    padding: 5px;
+    margin: 10px;
+}
+th{
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    background-color: white;
+}
+td{
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+}
+button{
+    width: 100px;
+}
+
+input{}
